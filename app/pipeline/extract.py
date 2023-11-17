@@ -1,10 +1,7 @@
-#%%
 import os
 import glob
 import pandas as pd
 from typing import List
-
-#%%
 
 """
 Function to read files from a folder data/input 
